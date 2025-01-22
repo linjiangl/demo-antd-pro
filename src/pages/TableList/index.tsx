@@ -249,6 +249,7 @@ const TableList: React.FC = () => {
         })}
         actionRef={actionRef}
         rowKey="key"
+        bordered={true}
         search={{
           labelWidth: 120,
         }}
