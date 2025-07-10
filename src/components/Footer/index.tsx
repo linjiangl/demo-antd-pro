@@ -8,6 +8,7 @@ const Footer: React.FC = () => {
       style={{
         background: 'none',
       }}
+      copyright={false}
       links={[
         {
           key: 'Ant Design Pro',

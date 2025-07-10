@@ -20,7 +20,7 @@ const Settings: ProLayoutProps & {
   logo: 'https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg',
   iconfontUrl: '',
   openKeys: false,  // 菜单选中，其他菜单不自动收缩
-  footerRender: false,
+  // footerRender: false,
   token: {
     // 文档地址
     // https://procomponents.ant.design/components/layout#layout-%E7%9A%84-token
@@ -60,7 +60,7 @@ const Settings: ProLayoutProps & {
     },
     pageContainer: {
       paddingBlockPageContainerContent: 24,
-      paddingInlinePageContainerContent: 40,
+      paddingInlinePageContainerContent: 24,
       colorBgPageContainer: "#fafbff",
       colorBgPageContainerFixed: "#ffffff"
     }
