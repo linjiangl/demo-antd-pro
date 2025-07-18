@@ -20,7 +20,8 @@
   },
   "formatter": {
     "enabled": true,
-    "indentStyle": "space"
+    "indentStyle": "space",
+    "lineWidth": 120
   },
   "linter": {
     "enabled": true,
@@ -42,7 +43,13 @@
   "javascript": {
     "jsxRuntime": "reactClassic",
     "formatter": {
-      "quoteStyle": "single"
+      "quoteStyle": "single",
+      "lineWidth": 120
+    }
+  },
+  "json": {
+    "formatter": {
+      "lineWidth": 120
     }
   }
 }

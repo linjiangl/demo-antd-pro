@@ -24,8 +24,7 @@ const Settings: ProLayoutProps & {
   token: {
     // 文档地址
     // https://procomponents.ant.design/components/layout#layout-%E7%9A%84-token
-    bgLayout:
-      'linear-gradient(135deg, rgba(249, 250, 251, 0.98) 0%, rgba(243, 244, 246, 0.95) 100%)',
+    bgLayout: 'linear-gradient(135deg, rgba(249, 250, 251, 0.98) 0%, rgba(243, 244, 246, 0.95) 100%)',
     sider: {
       colorBgMenuItemHover: '#ddd',
       colorBgMenuItemSelected: '#ddd',
