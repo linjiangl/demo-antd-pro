@@ -27,8 +27,8 @@ const Settings: ProLayoutProps & {
     bgLayout:
       'linear-gradient(135deg, rgba(249, 250, 251, 0.98) 0%, rgba(243, 244, 246, 0.95) 100%)',
     sider: {
-      colorBgMenuItemHover: '#D1E7FF',
-      colorBgMenuItemSelected: '#D1E7FF',
+      colorBgMenuItemHover: '#ddd',
+      colorBgMenuItemSelected: '#ddd',
     },
   },
 };
